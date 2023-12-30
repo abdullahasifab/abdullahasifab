@@ -5,7 +5,8 @@ Over the past two years, I have worked in Laravel, PHP, JavaScript, HTML, CSS, a
 ---
 ### 🧰ToolBox
 
-<img src="https://laravel.com/img/logomark.min.svg" width="50" height="50"><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50"><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" width="50" height="50"> HTML <img src="https://www.w3.org/Style/CSS/logos/80x15.png" alt="CSS Logo" width="50" height="50"> CSS
+<img src="https://laravel.com/img/logomark.min.svg" width="50" height="50">  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">  <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
+
 
 ## Getting Started
 
