@@ -4,11 +4,11 @@ Over the past two years, I have worked in Laravel, PHP, JavaScript, HTML, CSS, a
 
 ---
 ### 🧰ToolBox
-![Laravel Logo](https://laravel.com/img/logomark.min.svg) Laravel
-- ![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg) PHP
-- ![JavaScript Logo](https://www.javascript.com/images/logo.png) JavaScript
-- ![HTML Logo](https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg) HTML
-- ![CSS Logo](https://www.w3.org/Style/CSS/logos/80x15.png) CSS
+
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="50" height="50"> Laravel <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50" height="50"> PHP <img src="https://www.javascript.com/images/logo.png" alt="JavaScript Logo" width="50" height="50"> JavaScript <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" alt="HTML Logo" width="50" height="50"> HTML <img src="https://www.w3.org/Style/CSS/logos/80x15.png" alt="CSS Logo" width="50" height="50"> CSS
+
+## Getting Started
+
 <!--
 **abdullahasifab/abdullahasifab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
