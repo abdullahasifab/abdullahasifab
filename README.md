@@ -5,6 +5,8 @@ Over the past two years, I have worked in Laravel, PHP, JavaScript, HTML, CSS, a
 ---
 ### 🧰ToolBOx
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" hight="50px" width="50px" />
+
 <!--
 **abdullahasifab/abdullahasifab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
