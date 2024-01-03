@@ -14,7 +14,8 @@ Over the past two years, I have worked in Laravel, PHP, JavaScript, HTML, CSS, a
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div><br>
+</div>
+
 ---
 ### 🧰ToolBox
 
