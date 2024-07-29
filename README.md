@@ -1,6 +1,10 @@
 ### Hi there 👋, I am M Abdullah Asif!!
 
-Over the past two years, I have worked in Laravel, PHP, JavaScript, HTML, CSS, and Bootstrap technologies. I am a motivated and hardworking young web developer. I have developed a solid foundation in web development throughout my career and have delivered projects successfully using these technologies. I put a lot of work into developing online applications that are aesthetically pleasing, beneficial, and user-friendly. I have a strong desire to keep up with industry trends and to constantly broaden my knowledge and skill set. I am eager to contribute to team projects and deepen my knowledge of web development. <a href="https://abdullahasif.net/">click here</a> to see my Portfolio.
+As a motivated and hardworking young web developer with extensive experience in web development using Laravel, PHP, JavaScript, HTML, CSS, and Bootstrap technologies, throughout my career, I have built a solid foundation in front-end development and back-end development, successfully delivering online applications that emphasize both aesthetic appeal and user experience (UX).
+
+I am dedicated to creating applications with exceptional responsive design, blending front-end and back-end development skills. I stay abreast of industry trends and seek continuous learning and growth opportunities.
+
+As a motivated developer, I am eager to contribute to team collaboration, working together to produce innovative solutions. My commitment to continuous learning and aesthetic design ensures that I can adapt to new challenges and remain at the forefront of the industry. My passion for web development drives me to develop applications that are not only functional but also visually appealing, enhancing the overall user experience (UX). <a href="https://abdullahasif.net/">click here</a> to see my Portfolio.
 
 ---
 ### 🧰ToolBox
