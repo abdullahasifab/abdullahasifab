@@ -11,7 +11,7 @@ Over the past two years, I have worked in Laravel, PHP, JavaScript, HTML, CSS, a
 ---
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/abdullahasif2002/">
+  <a href="https://www.linkedin.com/in/mabdullahasif/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
