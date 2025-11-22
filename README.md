@@ -1,11 +1,12 @@
 ### Hi there 👋, I am M Abdullah Asif!!
 
-As a motivated and hardworking young web developer with extensive experience in web development using Laravel, PHP, JavaScript, HTML, CSS, and Bootstrap technologies, throughout my career, I have built a solid foundation in front-end development and back-end development, successfully delivering online applications that emphasize both aesthetic appeal and user experience (UX).
+I am M Abdullah Asif, a software engineer and web developer with strong experience in Laravel, PHP, JavaScript, MySQL, HTML, CSS, and Bootstrap. I build scalable web applications with a focus on responsive design, clean interfaces, and strong user experience. Over the years, I have delivered front-end and back-end solutions that balance visual appeal with solid engineering.
 
-I am dedicated to creating applications with exceptional responsive design, blending front-end and back-end development skills. I stay abreast of industry trends and seek continuous learning and growth opportunities.
+My work extends to CRM automation and data-driven systems. I design and implement automated workflows that help businesses streamline operations and improve efficiency. I have also built REI-focused platforms and integrated systems for teams that rely on fast, accurate information flow.
 
-As a motivated developer, I am eager to contribute to team collaboration, working together to produce innovative solutions. My commitment to continuous learning and aesthetic design ensures that I can adapt to new challenges and remain at the forefront of the industry. My passion for web development drives me to develop applications that are not only functional but also visually appealing, enhancing the overall user experience (UX). <a href="https://abdullahasif.net/">click here</a> to see my Portfolio.
+As the founder of StackRoot Solutions, I lead projects from initial concept through deployment. I focus on creating reliable digital systems that support growth and deliver measurable results. I stay up to date with industry trends and invest in continuous learning, which helps me take on new challenges and produce work that aligns with modern standards of usability and performance.
 
+You can view my portfolio here:  **https://abdullahasif.net/**
 ---
 ### 🧰ToolBox
 
